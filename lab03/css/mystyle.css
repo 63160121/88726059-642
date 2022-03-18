@@ -1,0 +1,74 @@
+body {
+    font-family: arial;
+    background-color: rgb(68, 248, 128);
+
+}
+
+h1 {
+    color: rgb(153, 201, 76);
+
+
+}
+a:link, a:visited {
+  background-color: #7979df;
+  color: rgb(84, 48, 169);
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover, a:active {
+  background-color: rgb(119, 223, 221);
+}
+
+  .headerandmid h1{
+    text-align: center;
+    padding-top: 20px;
+  }
+
+
+  .portfolil p{
+    color: rgb(164, 237, 188);
+    text-align: center;
+  }
+  div.Content {
+    text-align: center;
+  }
+
+  .Content p {
+    background-color: #792b2bce;
+
+  }
+
+  .bottom-content {
+    background-color: #9bfaf5dc;
+    height: 600px;
+  }
+
+  .bottom-content .bottom-content-text h1 {
+    padding-top: 80px;
+    text-align:center;
+  }
+  .bottom-content .bottom-content-text p {
+    text-align:center;
+  }
+
+  .bottom-content-text .bottom_content_province{
+    text-align: center;
+    padding-top: 24px;
+  }
+
+  .bottom-content .bottom_border {
+    border:5px solid #000b11;
+    margin: 24px 550px 0px 550px;
+    text-align: center;
+  }
+
+
+  .headerandmid .footer {
+    background-color: #FFF8DC;
+    color: rgb(228, 21, 21);
+    height: 150px;
+    padding-top: 50px;
+    text-align: center;
+  }
